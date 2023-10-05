@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://follishitechsolutions.org/wp-content/uploads/2023/06/digital-marketing.gif">
 
-<img align="right" alt="Coding" width="400" src="https://designpickle.com/wp-content/uploads/2022/03/031222_AnimatedFacebookAds-
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizanardin&label=Profile%20views&color=0e75b6&style=flat" alt="mizanardin" /> </p>
