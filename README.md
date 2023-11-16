@@ -23,7 +23,7 @@
 <a href="https://twitter.com/mizanardin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizanardin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mizanardin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mizanardin" height="30" width="40" /></a>
 <a href="https://fb.com/mizanardin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mizanardin" height="30" width="40" /></a>
-<a href="https://instagram.com/mizanardin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mizanardin" height="30" width="40" /></a>
+<a href="[https://instagram.com/mizanardin](https://www.instagram.com/digitalsolutionsite/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mizanardin" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Digital Solution site&show_icons=true&locale=en&layout=compact" alt="Digital Solution site" /></p>
