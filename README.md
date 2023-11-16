@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mizan Ardin</h1>
+<h1 align="center">Hi 👋, Digital Solution site </h1>
 <h3 align="center">Pro Digital Marketing Specialist from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://follishitechsolutions.org/wp-content/uploads/2023/06/digital-marketing.gif">
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Digital Marketing**
 
-- 📫 How to reach me **mizanardin@gmail.com**
+- 📫 How to reach me **info.digitalsolutionsite@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,8 +26,8 @@
 <a href="https://instagram.com/mizanardin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mizanardin" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizanardin&show_icons=true&locale=en&layout=compact" alt="mizanardin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Digital Solution site&show_icons=true&locale=en&layout=compact" alt="Digital Solution site" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mizanardin&show_icons=true&locale=en" alt="mizanardin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Digital Solution site&show_icons=true&locale=en" alt="Digital Solution site" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizanardin&" alt="mizanardin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Digital Solution site&" alt="mizanardin" /></p>
