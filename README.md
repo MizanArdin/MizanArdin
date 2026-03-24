@@ -6,7 +6,11 @@
 
 <img src="https://i.ibb.co.com/9kpCKvDy/profile.png" width="150" height="150" style="border-radius:50%"/>
 
-<br/><br/>
+<br/>
+
+# Mizan Ardin
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&width=750&height=55&lines=Fixing+broken+tracking+setups+since+2020;GA4+%7C+GTM+%7C+Meta+CAPI+%7C+Server-Side+Tracking" alt="Typing SVG" />
 
@@ -189,6 +193,7 @@ Just an honest look at what is broken and how to fix it.
 - 📌 Fiverr: [fiverr.com/mizanardin](https://fiverr.com/mizanardin)
 - 🌐 Website: [ardinanalytics.lovable.app](https://ardinanalytics.lovable.app)
 - 📧 Email: mizanardin@gmail.com
+- 📞 Whatsapp: +8801883045745
 
 ---
 
