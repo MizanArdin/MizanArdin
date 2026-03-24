@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mizan%20Ardin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Analytics%20%26%20Conversion%20Tracking%20Specialist&descAlignY=56&descSize=17&descColor=c084fc" width="100%"/>
 
 <br/>
 
@@ -12,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&width=750&height=55&lines=Fixing+broken+tracking+setups+since+2020;GA4+%7C+GTM+%7C+Meta+CAPI+%7C+Server-Side+Tracking" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&width=750&height=55&lines=Fixing+broken+tracking+setups;GA4+%7C+GTM+%7C+Meta+CAPI+%7C+Server-Side+Tracking" alt="Typing SVG" />
 
 <br/>
 
@@ -41,11 +38,11 @@ I work with e-commerce brands from the USA, UK, Canada, Germany, Norway, UAE, an
 Most store owners think their tracking is fine.
 It usually is not.
 
-Bad data silently feeds ad platforms the wrong signals. That kills ROAS. That wastes budget.
+Bad data silently feeds ad platforms the wrong signals. That kills ROAS, which wastes budget.
 
 I find the problems. I fix them. I verify the fix.
 
-**4+ years. 100+ tracking audits. Zero guessing.**
+**4+ years. 100+ tracking audits. 482+ Tracking Projects. Zero guessing.**
 
 <br clear="right"/>
 
